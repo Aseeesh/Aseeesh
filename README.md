@@ -29,8 +29,10 @@
     </a>
     <a href="mailto:ashishrijal1@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+       </a>
    <a href="https://ashishrijal.com.np/">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
 </a>
     
   </div>
@@ -141,23 +143,15 @@
 ---
  
 <!-- SNAKE ANIMATION -->
-<!-- Add this to your README to see if files exist -->
 <div align="center">
-  <h2>🐍 Testing Snake Animation</h2>
-  
-  <!-- Test both possible locations -->
-  <h3>Test 1: Root of output branch</h3>
-  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/snake.svg" alt="Snake root" width="300" />
-  
-  <h3>Test 2: In dist folder of output branch</h3>
-  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/dist/snake.svg" alt="Snake dist" width="300" />
-  
-  <h3>Test 3: GIF version</h3>
-  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/snake.gif" alt="Snake gif" width="300" />
+   
+  <!-- This shows the snake on light theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aseeesh/Aseeesh/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aseeesh/Aseeesh/output/snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Aseeesh/Aseeesh/output/snake.svg" width="800" />
+  </picture> 
 </div>
-
-
-
 <br/>
 
  
