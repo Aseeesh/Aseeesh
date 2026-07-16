@@ -21,15 +21,18 @@
   </p>
   
   <div>
-    <a href="https://linkedin.com/in/ashishrijal" target="_blank">
+    <a href="https://www.linkedin.com/in/rijal-ashish" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/ashishrijal" target="_blank">
+    <a href="https://github.com/Aseeesh" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:ashishrijal@gmail.com">
+    <a href="mailto:ashishrijal1@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+   <a href="https://ashishrijal.com.np/">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+    
   </div>
 </div>
 
@@ -136,87 +139,15 @@
 - Improved delivery processes using Agile and Scrum
 
 ---
-
-### 🎓 Education
-**Master of Software Engineering** (In Progress)
-Yoobee College of Creative Innovation, New Zealand
-
-**Bachelor of Engineering (Computer)**
-Tribhuvan University, Nepal
-
-<br/>
-
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrijal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrijal&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
-</div>
-
-<br/>
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrijal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
-</div>
-
-<br/>
-
-<!-- CURRENT FOCUS -->
-<h2>🎯 Current Focus</h2>
-
-- 🎓 Pursuing **Master of Software Engineering** at Yoobee College of Creative Innovation, New Zealand
-- 💡 Open to opportunities in **Full Stack Development**, **Software Architecture**, **Cloud Applications**, and **Technical Consulting**
-- 🌱 Learning advanced software engineering practices and modern architectural patterns
-- 🔭 Exploring AI-powered applications and IoT systems
-
-<br/>
-
-<!-- INTERESTS -->
-<h2>💡 Interests</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Architecture-58A6FF?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT_Systems-3FB950?style=for-the-badge&logo=iot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Applications-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-F05032?style=for-the-badge&logo=open-source&logoColor=white" />
-</p>
-
-<br/>
-
+ 
 <!-- SNAKE ANIMATION -->
 <div align="center">
- <img src="https://raw.githubusercontent.com/ashishrijal/ashishrijal/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/ashishrijal/ashishrijal/output/snake.gif" alt="Snake animation" />
 </div>
 
 <br/>
 
-<!-- LET'S CONNECT -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  
-  <p>
-    I enjoy collaborating on meaningful software projects and connecting with engineers, developers, and technology communities.
-  </p>
-  
-  <div>
-    <a href="https://github.com/ashishrijal" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/ashishrijal" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ashishrijal@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/ashishrijal" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </div>
-  
-  <br/>
+ 
   
   <table align="center">
     <tr>
