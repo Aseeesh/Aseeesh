@@ -16,11 +16,13 @@ jobs:
       - uses: actions/checkout@v3
       
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: ashishrijal
-          gif_out_path: dist/snake.gif
-          svg_out_path: dist/snake.svg
+          github_user_name: Aseeesh
+          # Generate multiple outputs
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3f7fdb
       
       - uses: peaceiris/actions-gh-pages@v3
         with:
