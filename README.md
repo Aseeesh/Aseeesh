@@ -141,9 +141,22 @@
 ---
  
 <!-- SNAKE ANIMATION -->
+<!-- Add this to your README to see if files exist -->
 <div align="center">
- <img src="https://raw.githubusercontent.com/ashishrijal/ashishrijal/output/snake.gif" alt="Snake animation" />
+  <h2>🐍 Testing Snake Animation</h2>
+  
+  <!-- Test both possible locations -->
+  <h3>Test 1: Root of output branch</h3>
+  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/snake.svg" alt="Snake root" width="300" />
+  
+  <h3>Test 2: In dist folder of output branch</h3>
+  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/dist/snake.svg" alt="Snake dist" width="300" />
+  
+  <h3>Test 3: GIF version</h3>
+  <img src="https://raw.githubusercontent.com/ashishrijal/Aseeesh/output/snake.gif" alt="Snake gif" width="300" />
 </div>
+
+
 
 <br/>
 
