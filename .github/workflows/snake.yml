@@ -18,11 +18,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Aseeesh
-          # Generate multiple outputs
+          # Generate both SVG and animated GIF
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3f7fdb
+            dist/snake-animated.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3f7fdb
       
       - uses: peaceiris/actions-gh-pages@v3
         with:
